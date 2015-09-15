@@ -1,0 +1,11 @@
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\OOP\Assignement\CollegeForm2\CollegeForm2\bin\Debug\CollegeForm2.exe.config
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\OOP\Assignement\CollegeForm2\CollegeForm2\bin\Debug\CollegeForm2.exe
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\OOP\Assignement\CollegeForm2\CollegeForm2\bin\Debug\CollegeForm2.pdb
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\OOP\Assignement\CollegeForm2\CollegeForm2\obj\Debug\CollegeForm2.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\OOP\Assignement\CollegeForm2\CollegeForm2\obj\Debug\CollegeForm2.DataEditor.resources
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\OOP\Assignement\CollegeForm2\CollegeForm2\obj\Debug\CollegeForm2.Properties.Resources.resources
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\OOP\Assignement\CollegeForm2\CollegeForm2\obj\Debug\CollegeForm2.csproj.GenerateResource.Cache
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\OOP\Assignement\CollegeForm2\CollegeForm2\obj\Debug\CollegeForm2.exe
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\OOP\Assignement\CollegeForm2\CollegeForm2\obj\Debug\CollegeForm2.pdb
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\OOP\Assignement\CollegeForm2\CollegeForm2\obj\Debug\CollegeForm2.College.resources
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\OOP\Assignement\CollegeForm2\CollegeForm2\obj\Debug\CollegeForm2.FormCompare.resources
